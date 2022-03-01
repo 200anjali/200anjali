@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Profile views](https://gpvc.arturio.dev/sumansourabh9155)
+![Profile views](https://gpvc.arturio.dev/200anjali)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/SumanSo07923190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
- <a href="https://www.instagram.com/suman_sourabh_/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sumansourabh9155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkdin" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sumansourabh9155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hakkerrank" height="30" width="40" /></a>
+<a href="https://twitter.com/@013Anjali_Raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/anjaliraj_13/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anjali-raj-2567b0207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkdin" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anjalirajwans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hakkerrank" height="30" width="40" /></a>
 </p>
 
 
@@ -39,22 +39,22 @@ Here are some ideas to get you started:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sumansourabh9155)              [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sumansourabh9155/)              [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/suman_sourabh_/)              [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@SumanSo07923190)              [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/sumansourabh9155)  -->
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sumansourabh9155&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=200anjali&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumansourabh9155&layout=compact&theme=radical)](https://github.com/sumansourabh9155/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=200anjali&layout=compact&theme=radical)](https://github.com/sumansourabh9155/github-readme-stats)
 
 
 <hr>
 <h3 align="left">My Learning Curve:</h3>
 <!-- Graphs--> 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sumansourabh9155&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=200anjali&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)  
 <!-- Commits -->
 <hr>
 <h3 align="left">Total Commits and Streak:</h3>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sumansourabh9155&show_icons=true&theme=radical" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumansourabh9155&show_icons=true&theme=radical" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=200anjali&show_icons=true&theme=radical" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=200anjali&show_icons=true&theme=radical" />
 </p>
 
 <hr>
